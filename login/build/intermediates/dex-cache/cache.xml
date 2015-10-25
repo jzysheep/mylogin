@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ziyang\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Ziyang\Documents\GitHub\login\app\build\intermediates\pre-dexed\debug\picasso-2.3.2-25ccd5a8cd1e732f189efb2f4abb023013fdd2ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ziyang\Documents\GitHub\login\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\4.4.52\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3dfdf1db5ce5ea2999a5dcde8c8e650b02660059">
+        <dex dex="C:\Users\Ziyang\Documents\GitHub\login\app\build\intermediates\pre-dexed\debug\classes-c5c73c17186311fad3bc8eace6752c64514726d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ziyang\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.5\77bf7cacf9cefe19dc105e5425d2eb1bb5285881\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="C:\Users\Ziyang\Documents\GitHub\login\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-12d0c6652bd61cfc11669da04df1a0f025ef3a9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ziyang\Documents\GitHub\login\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89">
+        <dex dex="C:\Users\Ziyang\Documents\GitHub\login\app\build\intermediates\pre-dexed\debug\classes-df8e90a794d27c97c52a17e880587913925bfa4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ziyang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Ziyang\Documents\GitHub\login\app\build\intermediates\pre-dexed\debug\gson-2.2.4-607f71be22514396161f86ab17f5e38dbbf15fbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ziyang\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="C:\Users\Ziyang\Documents\GitHub\login\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-ecd12fa7e07d437cad1cb4d52e38c38d7a880bbf.jar" />
+    </item>
+
+</items>
